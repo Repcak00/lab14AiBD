@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Kacper Kozaczko\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\semestr V\Analiza_i_Bazy_Danych\Cwiczenia\lab14\lab14AiBD\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
